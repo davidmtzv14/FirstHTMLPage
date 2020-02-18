@@ -47,4 +47,7 @@
     <li>
         git push
     </li>
+    <li>
+        Pull Request and leave a comment
+    </li>
 </ol>
